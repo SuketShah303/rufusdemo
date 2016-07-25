@@ -15,7 +15,7 @@ development:
   encoding: unicode
   database: deaqth2qhr8f2h
   pool: 5
-  host: ec2-50-17-255-6.compute-1.amazonaws.com
+  host: postgres://tuspzykhrsntox:bWtcmkTmyrGDg5Rz_KdmQYPLrn@ec2-50-17-255-6.compute-1.amazonaws.com:5432/deaqth2qhr8f2h
   username: tuspzykhrsntox
   password: bWtcmkTmyrGDg5Rz_KdmQYPLrn
 
