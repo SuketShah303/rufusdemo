@@ -15,9 +15,9 @@ development:
   encoding: unicode
   database: deaqth2qhr8f2h
   pool: 5
-  host: 'ec2-50-17-255-6.compute-1.amazonaws.com'
-  username: 'tuspzykhrsntox'
-  password: 'bWtcmkTmyrGDg5Rz_KdmQYPLrn'
+  host: ec2-50-17-255-6.compute-1.amazonaws.com
+  username: tuspzykhrsntox
+  password: bWtcmkTmyrGDg5Rz_KdmQYPLrn
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
